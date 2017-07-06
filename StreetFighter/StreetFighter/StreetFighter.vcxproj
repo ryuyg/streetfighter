@@ -78,6 +78,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1111.cpp" />
+    <ClCompile Include="22222.cpp" />
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="winMian.cpp" />
+    <ClCompile Include="zzzzzzzzz.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
