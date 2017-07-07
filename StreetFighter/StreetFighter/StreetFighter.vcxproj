@@ -80,7 +80,9 @@
   <ItemGroup>
     <ClCompile Include="1111.cpp" />
     <ClCompile Include="22222.cpp" />
+    <ClCompile Include="bomn.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="test2222222.cpp" />
     <ClCompile Include="winMian.cpp" />
     <ClCompile Include="zzzzzzzzz.cpp" />
   </ItemGroup>
