@@ -39,5 +39,8 @@
     <ClCompile Include="test4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="yo, hisasybury~.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
